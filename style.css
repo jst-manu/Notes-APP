@@ -9,6 +9,7 @@
   body {
     font-family: "Poppins", sans-serif;
     background-color: #0cefff;
+      display:flex;
   }
   .head span{
     align-items: center;
@@ -424,7 +425,7 @@ bottom-content span {
         color: rgb(3, 3, 3);
         padding: 8px 8px;
         font-weight: 600;
-        font-size:20px ;
+        font-size:15px ;
       }
     
   }
